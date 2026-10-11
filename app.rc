@@ -1,0 +1,37 @@
+// JJEXE · (c) 2026 JamesR and Tom · Todos los derechos reservados / All rights reserved.⁠​​​‌‌​‌​‌​‌‌‌​​​‌​‌‌​‌‌​​‌​‌​​‌​​‌‌‌​​‌‌​​‌​​‌‌​⁠
+// Obra original de JamesR and Tom. ID de autoria JJX-6ee1-7d9c-e042-1299-098e · archivo 1ab8b6527326
+1 24 "app.manifest"
+100 ICON "JJEXE.ico"
+101 ICON "tray_on.ico"
+102 ICON "tray_off.ico"
+201 BITMAP "splash_emblem.bmp"
+202 BITMAP "wordmark.bmp"
+
+300 RCDATA { "JJEXE|JamesR and Tom|2026|JJX-6ee1-7d9c-e042-1299-098e|6ee17d9ce0421299098e45e9f97d136317b4beee7d6ba0aca1054486a72990f2\0" }
+
+1 VERSIONINFO
+FILEVERSION 9,0,0,0
+PRODUCTVERSION 9,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "JamesR and Tom"
+      VALUE "FileDescription", "JJEXE - macro de clic y teclas"
+      VALUE "FileVersion", "9.0.0.0"
+      VALUE "InternalName", "JJEXE"
+      VALUE "LegalCopyright", "(c) 2026 JamesR and Tom. All rights reserved."
+      VALUE "OriginalFilename", "JJEXE.exe"
+      VALUE "ProductName", "JJEXE"
+      VALUE "ProductVersion", "9.0.0.0"
+      VALUE "Comments", "Authorship ID JJX-6ee1-7d9c-e042-1299-098e"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 1200
+  END
+END
